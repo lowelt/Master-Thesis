@@ -1,4 +1,4 @@
-# Master-Thesis
+# Master Thesis
 
 The repository contains the source code of my master's thesis "End-to-end optimisation of MIMO systems using autoencoder based on the deep learning". It is a learning algorithm which generates a MIMO transmitter and receiver realisation simultenously. This includes digital modulation and mimo encoding. The MIMO channel is modelled as a MIMO-Rayleigh-Block-Fading-Channel. For further inquieries or questions just contact me.
 
