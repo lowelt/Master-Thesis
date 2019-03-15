@@ -16,5 +16,5 @@ Most important Python Packages needed:
 ## Acknowledgments
 
 * Thank you Felix Wunsch and Dr. Holger Jaekel for guiding me through the thesis
-* Source code is based on Dr.-Ing. Jakob Hoydis' realisation of the autoencoder model from the paper "An Introduction to Deep Learning for the Physical Layer" (Timothy O’Shea; Jakob Hoydis, 02 October 2017)
+* Source code is based on Dr.-Ing. Jakob Hoydis' code for the SISO model from the paper "An Introduction to Deep Learning for the Physical Layer" (Timothy Oâ€™Shea; Jakob Hoydis, 02 October 2017)
 
